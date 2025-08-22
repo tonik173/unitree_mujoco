@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include <iostream>
+#include <stdint.h>
 #include <map>
 #include "joystick.h"
 
